@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### Blastix Riotz ("Fullblast" Long ver.)
 
-*Blastix Riotz ("Fullblast" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*Blastix Riotz ("Fullblast" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) as "Bang Riot" first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:34
