@@ -15,4 +15,6 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 02:34
+* BPM: 174
+* Genre: Neurofunk
 * Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
