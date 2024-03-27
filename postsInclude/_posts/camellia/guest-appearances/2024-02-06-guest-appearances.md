@@ -278,7 +278,7 @@ Here, you will find various Camellia guest appearances. If you see anything miss
 ### April
 
 - [Undead life](#) (_from [トキハカシノカミ](https://www.nicovideo.jp/watch/sm23370988)_)
-- [Octo-Bug](#) (_from [SUPREMACY](Thttps://web.archive.org/web/20140707003653/http://www.massivecirclez.com/supermacy.php)_)
+- [Octo-Bug](#) (_from [SUPREMACY](https://web.archive.org/web/20140707003653/http://www.massivecirclez.com/supermacy.php)_)
 - [KATANA](#) (_from [GAT03](http://djgenki.net/GAT03/)_)
 - [アメリカ語 Suupar Lectyaa](#) (_from [らぶちゅ！](https://confetto.chu.jp/lovechu/)_)
 
