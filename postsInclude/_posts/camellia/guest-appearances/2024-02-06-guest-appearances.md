@@ -300,6 +300,7 @@ Here, you will find various Camellia guest appearances. If you see anything miss
 - [Remember(Camellia's "reconstruction of recollection" Remix)](#) (_from [TANO\*C REMIXES 3](https://www.tano-c.net/release/tcplus-0012/)_)
 - [stray whisper taker feat. 綾倉盟 - Camellia Remix](#) (_from [XXX](https://zytokine-web.com/CK-0030P_XXX/XXX.html)_)
 - [WorkaHolic(Camellia's C-ounterfeit GlitchHop Remix)](#) (_from [HOLIX](http://c-h-s.me/holix/)_)
+- [エナジー*ドリン娘◎ふぇいんちゃん！](#) (_from [Voltage Ignition 2](http://c-h-s.me/motf-0002/)_)
 
 ### October
 
