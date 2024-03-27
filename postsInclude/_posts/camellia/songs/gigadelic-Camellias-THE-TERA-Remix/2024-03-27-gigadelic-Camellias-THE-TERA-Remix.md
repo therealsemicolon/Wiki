@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "gigadelic (Camellia's "THE TERA" Remix)"
+title: "gigadelic (Camellia's THE TERA Remix)"
 categories: posts
 author: KatGrrrl
-description: gigadelic (Camellia's "THE TERA" Remix) song page
+description: gigadelic (Camellia's THE TERA Remix) song page
 permalink: camellia/discography/:title
 ---
 
