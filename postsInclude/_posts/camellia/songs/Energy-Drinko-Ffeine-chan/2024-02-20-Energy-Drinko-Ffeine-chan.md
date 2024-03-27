@@ -11,13 +11,13 @@ permalink: camellia/discography/:title
 
 ### エナジー*ドリン娘◎ふぇいんちゃん！
 
-*エナジー*ドリン娘◎ふぇいんちゃん！* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-08-16.
+*エナジー*ドリン娘◎ふぇいんちゃん！* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2013-12-31.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:11
-* Album Appearances: [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [Voltage Ignition 2](http://c-h-s.me/motf-0002/) and [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
 
 ## External Links
 
