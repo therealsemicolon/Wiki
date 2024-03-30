@@ -3,18 +3,19 @@ layout: article
 title: Featured Rhythm Games
 date: 2023-11-22 17:04 -0600
 category: posts
-author: TidalWaveTsunami
+author: lily
 description: This is where we will talk about Camellia's featuring in rhythm games.
 permalink: camellia/:title
 ---
+## Introduction
+
+Many popular artists within Japanese EDM culture are featured in rhythm games due to the strong Japanese rhythm game community and the fast-paced and energetic nature of Japanese EDM, which makes it perfect for such games. Camellia is inarguably prominent among these, having over 56 songs officially featured in numerous rhythm games and countless others used in community-driven games such as osu!.
+
+The journey of Camellia’s discography within rhythm games began in 2014 when his song “Bassdrop Freaks (feat. Nanahira) was given a place in the game Beatmania IIDX. Since then, Camellia has become synonymous with rhythm games, incorporating his work into games such as osu!, Beat Saber, and A Dance of Fire and Ice, among many others. Camellia’s music is considered a staple even within less popular rhythm games when creating levels or “maps.” As of 2024, Camellia’s artistry remains at the forefront of rhythm game communities worldwide.
 
 ## Rhythm Games
 
-It wouldn't be Camellia without him being in a lot of rhythm games, and there are a lot of rhythm games he is in, but before we dive into all the rhythm games he is in, let's define what a rhythm game is. A rhythm game is a game where you have to send input to the beat of some music, whether it's by swinging your controllers in the arrow direction, matching the colors, clicking some keys, or some other input. A Normal rhythm game would have difficulties depending on your skill level, ranging from an easy chart, to one that is literally almost unplayable. Since Camellia is a music artist, it is no surprise that he would be in rhythm games, but to say that he is in a lot, would be an understatement. This page will give you all the rhythm games he is in, from the most common, to the rare rhythm games. (If I miss anything, please tell me :D)
-
-## Sound Voltex
-
-Sound Voltex is an Arcade Rhythm Game where you have to hit notes coming from a distance, hold notes if needed, and use the knobs on the side of the controller to control colored notes called lasers. This is one of the first rhythm games Camellia has been featured in. Let's put all the songs in a list in no particular order, because idk which came before which. This will not include remixes except one that was rejected due to some reasons.
+### Sound Voltex Contributions
 
 - Bangin' Burst
 - Dyscontrolled Galaxy
@@ -49,4 +50,4 @@ Sound Voltex is an Arcade Rhythm Game where you have to hit notes coming from a 
 - ゔぉるみっくす!!!!
 - 999 (RoughSketch - 666 (Camellia's Rejected Remix))
 
-You may wonder why 999 is included even though it's not in Sound Voltex. It's because it was originally suppose to be part of the game before it was rejected because of either being too fast for the charters to chart (due to MAYHEM by RoughSketch being 998 BPM), or some other reasons.
+999 is included even though it's not in Sound Voltex. This is because it was initially supposed to be part of the game before it was rejected.
