@@ -3,7 +3,7 @@ layout: post
 title: Camellia Server
 date: 2023-12-11 05:49 -0600
 category: pages
-author: papertek
+author: Various Contributors
 description: Information about the ever changing Camellia Server.
 include: Camellia Monthly, Meetings
 ---
