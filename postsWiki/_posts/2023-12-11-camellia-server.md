@@ -9,8 +9,10 @@ include: Camellia Monthly, Meetings
 ---
 ## Introduction
 
-> This page is a work in progress. If you’re a contributor, please update this page to current standards!
+> This page is a work in progress. If you’re a contributor, please update this page to current standards! TODO: Events
 {: .caution }
+
+The Camellia Discord is a server established on the social media platform Discord to serve as a community where fans of the Japanese EDM artist Camellia can gather together. The server originated in 2018, shortly before Camellia’s album Heart of Android was released. Since then, the server has grown considerably and now hosts announcements for Camellia’s new works, a monthly newsletter, and numerous community-driven events!
 
 ## Significant Dates
 
@@ -28,9 +30,3 @@ The original suggestions channel was closed due to low-quality suggestions.
 
 ### 7/17/2021
 The photography channels were closed due to inactivity.
-
-## Events
-
-### Elections
-
-### Drawing Camellia Together (DCT)
