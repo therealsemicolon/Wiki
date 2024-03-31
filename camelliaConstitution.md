@@ -24,11 +24,11 @@ The server's hierarchy is broken into six major roles;
 
 **Elder Mods** - seddywolf (cedric), flustix (scissortek)
 
-**Moderators** - avidmusicenjoyer, gridgalaxy (Casey), manutoad (shar), piavamusic (piquatek), exalvus (rocktek)
+**Moderators** - avidmusicenjoyer, gridgalaxy (Casey), piavamusic (piquatek), exalvus (rocktek)
 
 **Helpers** - burst06, foundbread, h.i.p.e, jiminp, moonthedarkwolf (lunartek), optelate, naska_link, hypertone, toxism
 
-**People's Roles** - (Member, Verified, Waffle/Pancake Leader, Level Roles, Nitro Boosters, Ko-Fi Donator)
+**People's Roles** - (Member, Verified, Waffle/Pancake Leader, Community Contributor, Level Roles, Nitro Boosters, Ko-Fi Donator)
 
 ### Definitions
 
@@ -53,6 +53,8 @@ The server's hierarchy is broken into six major roles;
 **Verified** - This role is exclusive to people who are widely known in other communities. It is purely cosmetic and adds little value, but it displays which members are speaking.
 
 **Waffle/Pancake Leader** - This role is given to members participating in the server elections. They act as leaders for their party and manage propaganda and protests, keeping their party relevant in the election process. If one of these leaders becomes the president in an election cycle, they may modify server-side items with staff permission.
+
+**Community Contributor** - People with this role review server directions and feedback to understand what the community wants/needs. These are staff members who haven't fully committed to being a Helper yet.
 
 **Level Roles** - These are roles given to members for every time they level up. They allow access for more features to the server such as thread creation and [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
 
