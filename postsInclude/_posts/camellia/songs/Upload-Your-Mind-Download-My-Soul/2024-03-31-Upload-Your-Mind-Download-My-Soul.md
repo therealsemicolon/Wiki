@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Upload Your Mind :: Download My Soul"
+title: "Upload Your Mind Download My Soul"
 categories: posts
 author: KatGrrrl
-description: Upload Your Mind :: Download My Soul song page
+description: Upload Your Mind Download My Soul song page
 permalink: camellia/discography/:title
 ---
 
