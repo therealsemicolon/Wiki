@@ -24,7 +24,7 @@ The server's hierarchy is broken into six major roles;
 
 **Elder Mods** - seddywolf (cedric), flustix (scissortek)
 
-**Moderators** - avidmusicenjoyer, gridgalaxy (Casey), manutoad (shar), piavamusic (piquatek), exalvus (rocktek)
+**Moderators** - avidmusicenjoyer, gridgalaxy (Casey), piavamusic (piquatek), exalvus (rocktek)
 
 **Helpers** - burst06, foundbread, h.i.p.e, jiminp, moonthedarkwolf (lunartek), optelate, naska_link, hypertone, toxism
 
