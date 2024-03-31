@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Heart of Android : Even If It’s Only By Mechanism"
+title: "Heart of Android Even If It’s Only By Mechanism"
 categories: posts
 author: KatGrrrl
-description: Heart of Android : Even If It’s Only By Mechanism song page
+description: Heart of Android Even If It’s Only By Mechanism song page
 permalink: camellia/discography/:title
 ---
 
