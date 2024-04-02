@@ -28,7 +28,7 @@ Total Length: 31:50
 ### Secret Tracks
 
 7. [The Lost Place In The New World](<{% link postsInclude/_posts/camellia/songs/The-Lost-Place-In-The-New-World/2024-03-14-The-Lost-Place-In-The-New-World.md %}>) (05:18)
-8. [Literal Crystal In The Cyphisonia](<{% link postsInclude/_posts/camellia/songs/Literal-Crystal-In-The-Cyphisonia/2024-03-14Literal-Crystal-In-The-Cyphisonia.md %}>) (05:54)
+8. [Literal Crystal In The Cyphisonia](<{% link postsInclude/_posts/camellia/songs/Literal-Crystal-In-The-Cyphisonia/2024-03-14-Literal-Crystal-In-The-Cyphisonia.md %}>) (05:54)
 
 ## Credits
 
