@@ -22,11 +22,11 @@ The server's hierarchy is broken into six major roles;
 
 **Admins** - J6papertek, dwqt (David), Nicocchi, thecodingguy (Matt)
 
-**Elder Mods** - seddywolf (cedric), flustix (scissortek)
+**Elder Mods** - seddywolf (cedric), flustix (scissortek), ItMePeachy
 
-**Moderators** - avidmusicenjoyer, gridgalaxy (Casey), piavamusic (piquatek), exalvus (rocktek)
+**Moderators** - burst06, h.i.p.e, hypertone, avidmusicenjoyer, gridgalaxy (Casey), piavamusic (piquatek), exalvus (rocktek)
 
-**Helpers** - burst06, foundbread, h.i.p.e, jiminp, moonthedarkwolf (lunartek), optelate, naska_link, hypertone, toxism
+**Helpers** - jiminp, moonthedarkwolf (lunartek), optelate
 
 **People's Roles** - (Member, Verified, Waffle/Pancake Leader, Community Contributor, Level Roles, Nitro Boosters, Ko-Fi Donator)
 
@@ -42,6 +42,8 @@ The server's hierarchy is broken into six major roles;
 
 **Helper** - This role applies to *all* of the staff team. Members of this role are expected to enforce this document and the server rules. They will use force if necessary to keep peace within all the server (by force, we mean using warnings, mutes, kicks, and bans). *"Staff Members are expected to honor \[these\] rules as well and aren’t above them, but only slightly under them (less under than you, dear reader)!"* Staff Members will interpret these rules on a case-by-case basis and will discuss internally the actions that must be taken for each case. Do not undermine Staff Members; their decisions are not up for public debate. For concerns regarding decisions, open an Admin Ticket in the ticket channel or contact.
 
+**Community Contributor** - People with this role review server directions and feedback to understand what the community wants/needs. These are staff members who haven't fully committed to being a Helper yet.
+
 > "With great power comes responsibi- zzz." "Unckr Ben what happened?!?!" "LX7VzX2i+OtNVaRx3mWVAA==!!!!"
 >
 > -Uncklr Benny
@@ -53,8 +55,6 @@ The server's hierarchy is broken into six major roles;
 **Verified** - This role is exclusive to people who are widely known in other communities. It is purely cosmetic and adds little value, but it displays which members are speaking.
 
 **Waffle/Pancake Leader** - This role is given to members participating in the server elections. They act as leaders for their party and manage propaganda and protests, keeping their party relevant in the election process. If one of these leaders becomes the president in an election cycle, they may modify server-side items with staff permission.
-
-**Community Contributor** - People with this role review server directions and feedback to understand what the community wants/needs. These are staff members who haven't fully committed to being a Helper yet.
 
 **Level Roles** - These are roles given to members for every time they level up. They allow access for more features to the server such as thread creation and [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
 
@@ -121,13 +121,13 @@ The staff team's role is to uphold the server rules and keep peace within the se
 
 ## Part 4: Communicating with the Discord Mod
 
-Pinging staff members individually or as a group is allowed. However, if a staff member states in their profile or in the chat not to direct message or tag them, their request must be respected.
+Pinging staff members individually or as a group is allowed. However, if a staff member states in their profile or in the chat not to direct message or tag them, their request must be respected or else punishment will be given.
 
 Direct messaging between members and staff should be kept to a minimum and always respectful. If you are being harassed through DMs, please contact us (the staff team).
 
 If you see someone breaking the rules, being a nuisance, or being weird, don't be afraid to tag us. Messages get to us quicker if you open a ticket in [#ticket-creation](https://discord.com/channels/435720333786480641/1037187523677524038)!
 
-Direct messaging Camellia is strongly discouraged as he is a very busy person. Message him with caution as his own words say: "In the worst case I would block you without any warning". Please review the rest of this Wiki for questions you may have regarding Camellia.
+Direct messaging Camellia is strongly discouraged as he is a very busy person. Message him with caution as his own words say: "In the worst case I would block you without any warning". Please review the rest of this Wiki for questions you may have regarding Camellia to avoid DMs.
 
 ## Part 5: Banishment system
 
