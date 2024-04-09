@@ -121,13 +121,13 @@ The staff team's role is to uphold the server rules and keep peace within the se
 
 ## Part 4: Communicating with the Discord Mod
 
-Pinging staff members individually or as a group is allowed. However, if a staff member states in their profile or in the chat not to direct message or tag them, their request must be respected.
+Pinging staff members individually or as a group is allowed. However, if a staff member states in their profile or in the chat not to direct message or tag them, their request must be respected or else punishment will be given.
 
 Direct messaging between members and staff should be kept to a minimum and always respectful. If you are being harassed through DMs, please contact us (the staff team).
 
 If you see someone breaking the rules, being a nuisance, or being weird, don't be afraid to tag us. Messages get to us quicker if you open a ticket in [#ticket-creation](https://discord.com/channels/435720333786480641/1037187523677524038)!
 
-Direct messaging Camellia is strongly discouraged as he is a very busy person. Message him with caution as his own words say: "In the worst case I would block you without any warning". Please review the rest of this Wiki for questions you may have regarding Camellia.
+Direct messaging Camellia is strongly discouraged as he is a very busy person. Message him with caution as his own words say: "In the worst case I would block you without any warning". Please review the rest of this Wiki for questions you may have regarding Camellia to avoid DMs.
 
 ## Part 5: Banishment system
 
