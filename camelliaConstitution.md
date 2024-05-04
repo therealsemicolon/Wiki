@@ -105,10 +105,10 @@ The server's hierarchy is broken into six major roles;
 - Posting AI "art" will result in deletion. Continuous infractions will result in warnings!
 - It is also discouraged to post any AI content in general unless you're really clever with humor.
 
-#### **8.** No discussion of KONAMI warez/piracy
+#### **8.** Do not distribute pirated content
 
 - This includes Bemani games, albums and soforth.
-- Distribution of pirated content is also not allowed.*
+- Discussion of distribution is also not allowed.
 
 > These rules are subject to change but not up for public discussion, unless brought up solely in the server direction channel.
 {: .disclaimer }
