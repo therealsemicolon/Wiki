@@ -38,11 +38,11 @@ The server's hierarchy is broken into six major roles;
 
 **Elder Mod** - This role is given to trusted Moderators who have been part of the staff team for a long time. As veterans, they have the opportunity to work closer with Admins (as well as be committed and set an example for all Moderators). They also honor this document and the guidelines that are being enforced within the staff team.
 
-**Moderator** - People with this role have expanded permissions over Helper and have been on the staff team for longer. Their responsibility is expanded to handle decision-making with cases and quality assurance of feedback, discussion, and server shenanigans.
+**Moderator** - People with this role have expanded permissions over Helper and have been on the staff team for longer. Their responsibility is expanded to handle trivial decision-making with cases and quality assurance of feedback, discussion, and server shenanigans.
 
-**Helper** - This role applies to *all* of the staff team. Members of this role are expected to enforce this document and the server rules. They will use force if necessary to keep peace within all the server (by force, we mean using warnings, mutes, kicks, and bans). *"Staff Members are expected to honor \[these\] rules as well and aren’t above them, but only slightly under them (less under than you, dear reader)!"* Staff Members will interpret these rules on a case-by-case basis and will discuss internally the actions that must be taken for each case. Do not undermine Staff Members; their decisions are not up for public debate. For concerns regarding decisions, open an Admin Ticket in the ticket channel or contact.
+**Helper** - Members of this role are expected to enforce this constitution. They will use force if necessary to keep peace within the server (by force, we mean using warnings, mutes, kicks, and bans).
 
-**Community Contributor** - People with this role review server directions and feedback to understand what the community wants/needs. These are staff members who haven't fully committed to being a Helper yet.
+**Community Contributor** - People with this role have previously helped organize niche stuff or offered help if needed. These are staff members who haven't fully committed to being a Helper yet.
 
 > "With great power comes responsibi- zzz." "Unckr Ben what happened?!?!" "LX7VzX2i+OtNVaRx3mWVAA==!!!!"
 >
@@ -50,13 +50,13 @@ The server's hierarchy is broken into six major roles;
 
 **People's Roles** - These roles are divided into several, each with a certain permission or niche. Of course, not all roles are documented here, but these are the most important ones, as they have their own permissions and expectations.
 
-**Member** - People will only recieve this role ten minutes upon joining the server. This role grants the permission to embed links as well as post images in all of the main channels.
+**Member** - People will only receive this role ten minutes after joining the server. This role grants the permission to embed links and post images in all of the main channels.
 
-**Verified** - This role is exclusive to people who are widely known in other communities. It is purely cosmetic and adds little value, but it displays which members are speaking.
+**Verified** - This role is exclusive to people widely known in other communities. It is purely cosmetic and adds little value. It only displays the member's stance.
 
 **Waffle/Pancake Leader** - This role is given to members participating in the server elections. They act as leaders for their party and manage propaganda and protests, keeping their party relevant in the election process. If one of these leaders becomes the president in an election cycle, they may modify server-side items with staff permission.
 
-**Level Roles** - These are roles given to members for every time they level up. They allow access for more features to the server such as thread creation and [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
+**Level Roles** - These are roles given to members every time they level up. They allow access to more features to the server such as thread creation and [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
 
 **Nitro Boosters** - This role is exclusive to members who choose to boost the server. Nitro Boosters have permission to create threads and embed content in more areas.
 
