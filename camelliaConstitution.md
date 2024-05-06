@@ -32,6 +32,9 @@ The server's hierarchy is broken into six major roles;
 
 ### Definitions
 
+> There is currently debate on wheather to keep the Helper role, but, this description still applies. The Moderator role has been renamed to "Staff" for the time being.
+{: .disclaimer }
+
 **Camellia** - As Camellia is busy with other duties such as making music and eating chicken, he is mostly hands-off with daily operations. He leaves daily operations at the responsibility of the staff team. His role has unlimited power, he is god.
 
 **Admin** - Members of this role are expected to organize and lead the server, uphold this constitution and the staff guidelines, and use force if necessary to keep peace within all the servers (by force, we mean warnings, mutes, kicks, and bans). They also manage the staff team and provide staff members with quality reports if necessary. These quality reports include direct messaging a staff member with a bot and providing information on any disciplinary action or concern.
@@ -40,7 +43,7 @@ The server's hierarchy is broken into six major roles;
 
 **Moderator** - People with this role have expanded permissions over Helper and have been on the staff team for longer. Their responsibility is expanded to handle trivial decision-making with cases and quality assurance of feedback, discussion, and server shenanigans.
 
-**Helper** - Members of this role are expected to enforce this constitution. They will use force if necessary to keep peace within the server (by force, we mean using warnings, mutes, kicks, and bans).
+**Helper** - This role applies to *all* of the staff team. Members of this role are expected to enforce this document and the server rules. They will use force if necessary to keep peace within all the server (by force, we mean using warnings, mutes, kicks, and bans). *"Staff Members are expected to honor \[these\] rules as well and aren’t above them, but only slightly under them (less under than you, dear reader)!"* Staff Members will interpret these rules on a case-by-case basis and will discuss internally the actions that must be taken for each case. Do not undermine Staff Members; their decisions are not up for public debate. For concerns regarding decisions, open an Admin Ticket in the ticket channel or contact.
 
 **Community Contributor** - People with this role have previously helped organize niche stuff or offered help if needed. These are staff members who haven't fully committed to being a Helper yet.
 
