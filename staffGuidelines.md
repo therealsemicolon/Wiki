@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Staff Guidelines
-author: Camellia Server Staff. These guidelines were last updated on 4/30/24
+author: Camellia Server Staff. These guidelines were last updated on 6/11/24
 ---
 
 ## A Brief History
@@ -213,7 +213,7 @@ When creating announcements for any *important* reason, these guidelines must be
 
 ## Promotion Process and Roles
 
-As a part of the staff team, it's important to note how the promotion process works, from Trial Staff to Probationary Staff to full Helper. Welcome in, and read on!
+As a part of the staff team, it's important to note how the promotion process works, from Trial Staff to Probationary Staff to full Moderator. Welcome in, and read on!
 
 After two warning messages, it's guaranteed demotion on the third!
 
@@ -224,7 +224,7 @@ After two warning messages, it's guaranteed demotion on the third!
 
 #### Probationary and Trial Roles
 
-- All new staff members will start with the Helper role and a designated secondary role. These roles are called Trial Staff and Probationary Staff.
+- All new staff members will start with the Moderator role and a designated secondary role. These roles are called Trial Staff and Probationary Staff.
 - Trial Staff will be given to staff members who would normally be denied in the application process but are given a chance to prove themselves to the Admins. Trial Staff is also used as a learning experience for new staff members!
 - Probationary Staff are given to competent individuals who have proven their readiness to join the staff team. This is a way to evaluate performance before fully committing to their role.
 
