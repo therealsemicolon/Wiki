@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Staff Guidelines
-author: Camellia Server Staff. These guidelines were last updated on 6/14/24
+author: Camellia Server Staff. These guidelines were last updated on 6/15/24
 ---
 
 ## A Brief History
@@ -61,7 +61,7 @@ consistent contribution, not overloaded. Make sure to contact another staff memb
 particular member, events, and/or punishments. This is for transparency's sake.
 1. Listen to the room in certain situations; forcefully changing a
 sensitive topic in a channel will only leave people confused and the situation unresolved. Only in extreme cases should sensitive topics be forcefully shifted.
-1. Always remain anonymous when it comes to punishment. Refer to punishments as "staff team decisions".
+1. Always remain anonymous when it comes to punishment. Refer to punishments as "staff team decisions."
 1. Political/religious talk is not allowed on the main channels.
 This server has many people with differing opinions. If anyone
 is talking about political situations, redirect them to
@@ -163,7 +163,7 @@ If you are not in immediate crisis or danger and would like to find help, reach 
   
 *Please mention any event handling so other staff can know! Events should also be scheduled days in advance, so more members can notice something is going on!*
 
-*Always use [this channel](https://discord.com/channels/435720333786480641/1251343238237917205) for announcements. Your messages will be reposted by a bot.*
+*Always use [this channel](https://discord.com/channels/435720333786480641/1251343238237917205) for anonymous announcements. Your messages will be reposted by a bot.*
 
 *If you need an idea of where to create events. Scroll to the top of the channel list and locate the Event Button. You can see a screenshot example below.*
 
