@@ -163,7 +163,7 @@ If you are not in immediate crisis or danger and would like to find help, reach 
   
 *Please mention any event handling so other staff can know! Events should also be scheduled days in advance, so more members can notice something is going on!*
 
-*Always use [this channel](https://discord.com/channels/435720333786480641/1251343238237917205) channel for announcements. Your messages will be reposted by a bot.*
+*Always use [this channel](https://discord.com/channels/435720333786480641/1251343238237917205) for announcements. Your messages will be reposted by a bot.*
 
 *If you need an idea of where to create events. Scroll to the top of the channel list and locate the Event Button. You can see a screenshot example below.*
 
