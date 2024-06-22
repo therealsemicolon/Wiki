@@ -54,7 +54,7 @@ const Functions = {
 			};
 			const data = await response.json();
 
-			if (data.code != 0) throw new Error(`API returned code ${data.code}`);
+			if (data.status != 200) throw new Error(`API returned code ${data.status}`);
 			return data;
 		} catch (error) {
 			Functions.sendToast({ title: "API Request Failed!", content: "Please try reloading. If this keeps happening, please report to the developers.", style: "error" });
@@ -156,8 +156,8 @@ const updateUserData = async() => {
 
 	if (dh) {
 		const data = await Functions.sendAPIRequest("account", { Authorization: dh });
-		if (data.code != 0 || data.error) {
-			if (data.error ? data.error.message.includes("re" + "turned" + " co" + "de 81") : (data.code == 81)) {
+		if (data.status != 200 || data.message != "OK") {
+			if (data.message != "OK" ? (data.message.includes("re" + "turned" + " co" + "de 404")) : (data.status == 404)) {
 				Functions.sendToast({ title: "Authentication", content: "Failed to login as you are not in the server!\nClick this toast to open the Discord server invite in a new tab!", style: "error", link: "https://discord.gg/camellia", linkTarget: "_blank" });
 				Functions.Cookie.set("wiki_auth", JSON.stringify({}), 0);
 			} else {
@@ -335,7 +335,7 @@ if (commentSection) {
 
 		const slug = Functions.makeSlug(window.location.pathname);
 		const data = await Functions.sendAPIRequest(`posts/${slug}/comments`, { Authorization: dh }, "POST", Functions.basicSanitize(commentInput.value));
-		if (data.error) return await handleError("Something went wrong while posting.\nCheck to make sure your comment is not empty.");
+		if (data.message != "OK") return await handleError("Something went wrong while posting.\nCheck to make sure your comment is not empty.");
 
 		Functions.fetchComments();
 		resetInputForm(true);
@@ -392,7 +392,7 @@ if (commentSection) {
 			if (!dh || !user) return;
 			if (confirm(`Are you sure you want to delete this comment (id: ${commentID})?`)) {
 				const data = await Functions.sendAPIRequest(`comments/${commentID}`, { Authorization: dh }, "DELETE");
-				if (data.code != 0 || data.error) {
+				if (data.status != 200 || data.message != "OK") {
 					Functions.sendToast({ title: "Comment Deletion", content: "Failed to delete comment!\nPlease try again. If this keeps happening, please report to the developers.", style: "error" });
 					Logger.error(`Failed to delete comment ${commentID}`);
 					console.log(data);
@@ -525,7 +525,7 @@ if (commentSection) {
 				else if (comcon == commentContentActually.trim()) return await handleError("Something went wrong while editing.\nYour comment is the same...");
 
 				const data = await Functions.sendAPIRequest(`comments/${commentID}`, { Authorization: dh }, "PATCH", Functions.basicSanitize(commentEditInput.value));
-				if (data.error) return await handleError("Something went wrong while editing.\nCheck to make sure your comment is not empty.");
+				if (data.message != "OK") return await handleError("Something went wrong while editing.\nCheck to make sure your comment is not empty.");
 
 				Functions.fetchComments();
 				resetInputForm(true);
@@ -646,7 +646,7 @@ if (commentSection) {
 				if (comcon == null || comcon == "") return await handleError("Something went wrong while replying.\nCheck to make sure your comment is not empty.");
 
 				const data = await Functions.sendAPIRequest(`comments/${commentID}/reply`, { Authorization: dh }, "POST", Functions.basicSanitize(commentReplyInput.value));
-				if (data.error) return await handleError("Something went wrong while replying.\nCheck to make sure your comment is not empty.");
+				if (data.message != "OK") return await handleError("Something went wrong while replying.\nCheck to make sure your comment is not empty.");
 
 				Functions.fetchComments();
 				resetInputForm(true);
@@ -664,7 +664,7 @@ if (commentSection) {
 			const commentIconContainer = event.target;
 			const voteType = commentIconContainer.style.color == "var(--colorPrimary)" ? 0 : (commentIcon == "comment-upvote" ? 1 : -1);
 			const data = await Functions.sendAPIRequest(`comments/${commentID}/vote`, { Authorization: dh }, "POST", voteType.toString());
-			if (data.error) return await Functions.sendToast({ title: `Comment ${(voteType ? "Up" : "Down")}Vote Failed!`, content: "Something went wrong while voting.\nPlease try again?", style: "error" });
+			if (data.message != "OK") return await Functions.sendToast({ title: `Comment ${(voteType ? "Up" : "Down")}Vote Failed!`, content: "Something went wrong while voting.\nPlease try again?", style: "error" });
 
 			Functions.fetchComments();
 			updateUserData();

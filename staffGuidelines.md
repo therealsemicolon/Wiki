@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Staff Guidelines
-author: Camellia Server Staff. These guidelines were last updated on 3/26/24
+author: Camellia Server Staff. These guidelines were last updated on 6/15/24
 ---
 
 ## A Brief History
@@ -61,6 +61,7 @@ consistent contribution, not overloaded. Make sure to contact another staff memb
 particular member, events, and/or punishments. This is for transparency's sake.
 1. Listen to the room in certain situations; forcefully changing a
 sensitive topic in a channel will only leave people confused and the situation unresolved. Only in extreme cases should sensitive topics be forcefully shifted.
+1. Always remain anonymous when it comes to punishment. Refer to punishments as "staff team decisions."
 1. Political/religious talk is not allowed on the main channels.
 This server has many people with differing opinions. If anyone
 is talking about political situations, redirect them to
@@ -80,8 +81,8 @@ The template for punishing someone is *VERBAL WARNING -> INFRACTION/WARNING -> T
 *When people don't listen, you need to take action. Here's how to make yourself look less 1984 and more like Mad Max (a more respected kind of staff member).*
 
 1. Always put a reason for anything. This includes warnings, bans, and kicks.
-1. If members have questions about their punishment, try to make messages short and straightforward on why they were punished, and avoid arguments if you can!
-1. If someone complains about their punishment not being listed in the rules, remind them about reading the room/common sense. Alternatively, ignore them (I really like doing this one personally!).
+1. If members have questions about a punishment, you are not obligated to answer them. If you choose to, try to make messages short and straightforward on why they were punished. Avoid arguments if you can!
+1. If someone complains about their punishment not being listed in the rules, remind them about reading the room and what we interpret. Alternatively, ignore them (I really like doing this one personally!).
 1. If someone doesn't listen after an infraction, time them out for 10 minutes minimum.
 
 ### Moderation of content that falls into a "gray" area
@@ -104,16 +105,16 @@ The template for punishing someone is *VERBAL WARNING -> INFRACTION/WARNING -> T
 
 ### Overwhelming situations
 
-*When taking action against something it's possible to be harassed. If handling the situation becomes out of hand, you should consider one of these options; remember to use good judgment on what to do!*
+*When taking action against something, it's possible to be harassed. If handling the situation becomes out of hand, you should consider one of these options; remember to use good judgment on what to do!*
 
-1. Contact other staff members about the situation and provide a chat link to give insight and possible backup. If you're unsure how to handle a situation, contact someone higher up.
-1. Ignore the perpetrators, and try not to engage in unneeded arguments or discussions without reason.
+1. Contact other staff members about the situation and provide a chat link to give insight and possible backup. If you're unsure how to handle a problem, contact someone higher up.
+1. Ignore the perpetrators and avoid engaging in unneeded arguments or discussions without reason.
 1. De-escalate by reassuring people that this action was needed or is being re-evaluated.
 1. Listen to what people say and tell them what they want to hear (unless otherwise). Try to be patient with them so they can feel comfortable with what's happening. By doing this method, it should be easier to diverge a heated topic/discussion and talk about something else.
 
 ### Contribution forms
 
-We are looking for active contributors who can help the Camellia Server thrive! To do so, please note each contribution you've made (or fill out a contribution form!). These contributions will be asked for when necessary and are usually asked for every three months (Q1, Q2, Q3, Q4).
+We are looking for active contributors who can help the Camellia Server thrive! To do so, please note each contribution you’ve made (or fill out a contribution form!). These contributions will be requested when necessary and are usually asked for every quarter (Q1, Q2, Q3, Q4).
 
 > To submit a contribution form, please refer to [this link](https://forms.gle/EdpTu9BF3BtdYgm5A).
 {: .tip }
@@ -123,22 +124,22 @@ We are looking for active contributors who can help the Camellia Server thrive! 
 > Detailed discussions regarding crisis handling are handled internally and are not disclosed to the public.
 {: .disclaimer }
 
-*In the event of a member having crisis, breakdown, or rant in a public space, staff members must provide a list of hotline services to support the member (in DMs or in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265)). If a member falls within these conditions, action is required.*
+*In the event of a member having a crisis, breakdown, or rant in a public space, staff members must provide a list of hotline services to support the member (in DMs or in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265)). If a member falls within these conditions, action is required.*
 
 1. The user threatens suicide or self-harm.
 1. The user shows dangerous or concerning behavior in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
-1. A fellow member shows concern for their other fellow member regarding the conditions above.
+1. A fellow member shows concern regarding the conditions above for their other fellow member.
 
-*If a staff member wishes to engage silently on crisis handling, they are required to report all concerning messages to Discord.*
+*If staff members wish to engage silently in crisis handling, they must report all concerning messages to Discord.*
 
-Don't be afraid to ask for help. If you're in a crisis please reach out to any of the resources listed below.
+Don't be afraid to ask for help. If you're in a crisis, please reach out to any of the resources listed below.
 
 1. Call or Text 988 or visit their site [here](https://988lifeline.org/) (United States only)
 1. [The Trevor Project (24/7 LGBTQ+ crisis support)](https://www.thetrevorproject.org/get-help/#tc)
 1. [Wikipedia's Suicide Crisis Lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 1. [Take This (emergency and non-emergency mental health resources)](https://www.takethis.org/mental-health-resources/)
 
-If you are not in immediate crisis or danger and would like to find help reach out to the resources listed below.
+If you are not in immediate crisis or danger and would like to find help, reach out to the resources listed below.
 
 1. [7 Cups of Tea (24/7 online chat)](https://www.7cups.com/)
 1. [So You Feel Like Shit (interactive flow chart)](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
@@ -146,20 +147,11 @@ If you are not in immediate crisis or danger and would like to find help reach o
 1. [Finding affordable treatment services](https://mhanational.org/finding-therapy)
 1. [Problem Solving song](https://youtu.be/J-zC46Tiygk)
 
-## Moderation Terminology and AutoMod
+## Wick's AutoMod
 
-### Common Terminology
+\[Noise\]: Could be used for people talking too much. Example: "Stop creating noise, please." This could also be used instead of saying, "Shut the fuck up."
 
-*Using Wick, the moderation bot, there are a couple of commands. These commands are: /warn /kick /ban, and /infractions. We want to generalize terms we use when referring to moderation in general, so keep these in mind.*
-
-- \[Warn/Infraction\]: A server warning issued by the bot to keep track of how many infractions somebody has. The bot will punish a member automatically based on several infractions.
-- \[Verbal\]: This refers to a verbal warning; verbal warnings could also be called "soft warnings" and are issued before severe action is taken. FAQ Commands are included.
-- \[Restriction/Restricted\]: A restricted user cannot use a specific chat category or channel. These are issued when users can't stay on topic or provide unwanted discussion/noise.
-- \[Timeout/Mute\]: Users that cannot speak in chats for a specified time.
-- \[Noise\]: Could be used for people talking too much. Example: "Stop creating noise, please." This could also be used instead of saying, "Shut the fuck up."
-- This list will be added to eventually.
-
-### Wick's AutoMod
+### AutoMod Rules
 
 - Each infraction given by John Wick is a total of 5 warning points.
 - 15 warning points give 1-hour timeouts. 25 warning points give 1-day timeouts, and 35 warning points kick members.
@@ -169,14 +161,16 @@ If you are not in immediate crisis or danger and would like to find help reach o
 
 *Creating events should be easy to do; keep in mind, though, it's ideal to have Discord events hosted when a new Camellia song premieres or an event Camellia is featured in.*  
   
-*Please be sure to mention any event handling so other staff could know! Events should also be scheduled days in advance so more members can notice something is going on!*
+*Please mention any event handling so other staff can know! Events should also be scheduled days in advance, so more members can notice something is going on!*
+
+*Always use [this channel](https://discord.com/channels/435720333786480641/1251343238237917205) for anonymous announcements. Your messages will be reposted by a bot.*
 
 *If you need an idea of where to create events. Scroll to the top of the channel list and locate the Event Button. You can see a screenshot example below.*
 
 ![Click the Event Button!](/assets/images/staffGuidelines/eventstuf.png)
 {: .centerItem }
 
-*Discord events create a calendar date for an event start date and an event ending date. It also adjusts to time zones, making things easier for everyone!*
+*For Discord events, create a calendar date for an event start date and an event ending date. It also adjusts to time zones, making things easier for everyone!*
 
 ### Events
 
@@ -199,12 +193,12 @@ When making events about Camellia, you should keep an eye out for these.
 - Music fests featuring Camellia (VRChat, Comiket, etc.)
 - Anything involving Camellia!
 
-> Staff members are expected to contribute to events at least once every three months. This is to ensure that consistent contribution requirements are met.
+> Staff members are expected to contribute to events at least once every three months to ensure consistency in contribution requirements.
 {: .disclaimer }
 
 ### Announcements
 
-When creating announcements for any *important* reason, these guidelines must be followed. Before posting, make sure the post is approved by a number of staff members, and make sure to do a self-check here.
+When creating announcements for any *important* reason, these guidelines must be followed. Before posting, make sure the post is approved by several staff members, and make sure to do a self-check here.
 
 #### Announcements: Tone of delivery
 
@@ -222,7 +216,7 @@ When creating announcements for any *important* reason, these guidelines must be
 
 ## Promotion Process and Roles
 
-As a part of the staff team it's important to take note of how the promotion process works, from Trial Staff to Probationary Staff, to full Helper. Welcome in and read on!
+As a part of the staff team, it's important to note how the promotion process works, from Trial Staff to Probationary Staff to full Moderator. Welcome in, and read on!
 
 After two warning messages, it's guaranteed demotion on the third!
 
@@ -233,20 +227,20 @@ After two warning messages, it's guaranteed demotion on the third!
 
 #### Probationary and Trial Roles
 
-- All new staff members will start with the Helper role and a designated secondary role. These roles are called Trial Staff and Probationary Staff.
+- All new staff members will start with the Moderator role and a designated secondary role. These roles are called Trial Staff and Probationary Staff.
 - Trial Staff will be given to staff members who would normally be denied in the application process but are given a chance to prove themselves to the Admins. Trial Staff is also used as a learning experience for new staff members!
 - Probationary Staff are given to competent individuals who have proven their readiness to join the staff team. This is a way to evaluate performance before fully committing to their role.
 
 #### Community Contributor Role
 
-This role is given to members who were selected from the Community Contributor Applications. Community Contributors must follow this criteria.
+This role is given to members selected from the Community Contributor Applications. Community Contributors must follow this criteria.
 
 > To submit a Contributor application, please refer to [this link](https://forms.gle/qbtPq3nVck9S2z426).
 {: .tip }
 
-- Review server directions and feedback for understanding on what the community wants/needs.
+- Review server directions and feedback for understanding what the community wants/needs.
 - Read and review the [event]({{ site.baseurl }}#events) section.
-- Talk and communicate with server members as well as work with staff members for creating something awesome!
+- Talk and communicate with server members and work with staff members to create something awesome!
 
 ### Promotion: What is considered
 
@@ -255,7 +249,7 @@ This role is given to members who were selected from the Community Contributor A
 - Learning how to work individually and using teamwork.
 - Having a sense of self-awareness and professionalism.
 - Knowing the consequences of acting unprofessional in a public space.
-- Following and using basic staff resources such as the Staff Guidelines, bot commands, and FAQ commands.
+- Follow and use basic staff resources such as the Staff Guidelines, bot commands, and FAQ commands.
 - Leading the server in the best direction for the sake of Camellia and server members.
 
 ### Demotion: What is considered
