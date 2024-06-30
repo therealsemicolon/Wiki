@@ -19,11 +19,11 @@ The server's hierarchy is broken into six major roles;
 
 **Camellia** - Camellia
 
-**Admins** - J6papertek, Nicocchi, thecodingguy (Matt), avidmusicenjoyer
+**Admins** - J6papertek, Nicocchi, thecodingguy (Matt), seddywolf (cedric)
 
-**Elder Mods** - seddywolf (cedric), flustix (scissortek), ItMePeachy, akiri
+**Elder Mods** - flustix (scissortek), ItMePeachy, akiri, exalvus (rocktek)
 
-**Moderators (Flower Mod)** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), exalvus (rocktek), jiminp, moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, squibster
+**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, xeno_butbetter, sjk04 (Phrygia)
 
 **People's Roles** - (Member, Verified, Waffle/Pancake Leader, Community Artist, Community Contributor, Level Roles, Nitro Boosters, Ko-Fi Donator)
 
@@ -37,7 +37,7 @@ The server's hierarchy is broken into six major roles;
 
 **Moderator** - This role applies to *all* of the staff team. Members of this role are expected to enforce this document and the server rules. They will use force if necessary to keep peace within all the server (by force, we mean using warnings, mutes, kicks, and bans). *"Staff Members are expected to honor \[these\] rules as well and aren’t above them, but only slightly under them (less under than you, dear reader)!"* Staff Members will interpret these rules on a case-by-case basis and will discuss internally the actions that must be taken for each case. Do not undermine Staff Members; their decisions are not up for public debate. For concerns regarding decisions, open an Admin Ticket in the ticket channel or contact.
 
-**Community Contributor** - People with this role have previously helped organize niche stuff or offered help if needed. These are staff members who haven't fully committed to being a Helper yet.
+**Community Contributor** - People with this role have previously helped organize niche stuff or offered help if needed. These are staff members who haven't fully committed to being a Moderator yet.
 
 **Community Artist** - People with this role are community contributors specifically to create art for the CamelliaCord.
 
@@ -116,9 +116,9 @@ The server's hierarchy is broken into six major roles;
 
 We expect members to respect each other and the staff team. We also have minors in the community, so sexual discussions and degeneracy should be kept to a minimum. Remember to follow [Discord's TOS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). The higher your role is (including levels), the more we expect from you. If a rule is broken, we ask you to act on it and notify the staff team instead of escalating.
 
-## Part 3: Expectation of Conduct from Staff Members
+## Part 3: Expectations of Conduct from Staff Members
 
-The staff team's role is to uphold the server rules and keep peace within the server. Helpers can mute, kick, and warn members to achieve this goal. Moderators and up have full powers to mute, kick, ban, and warn and will utilize these permissions as needed. Staff members must also follow the [Staff Guidelines](/staffGuidelines.html). *All* staff members will be biased towards some members because this is part of being in a community. However, bias will be ignored once we discuss actions necessary to uphold this constitution. A staff member's decision is final and can only be overturned by appealing or submitting an Admin Ticket for in-depth discussion.
+The staff team's role is to uphold the server rules and keep peace within the server. Moderators and up have full powers to mute, kick, ban, and warn and will utilize these permissions as needed. Staff members must also follow the [Staff Guidelines](/staffGuidelines.html). *All* staff members will be biased towards some members because this is part of being in a community. However, bias will be ignored once we discuss actions necessary to uphold this constitution. A staff member's decision is final and can only be overturned by appealing or submitting an Admin Ticket for in-depth discussion.
 
 ## Part 4: Communicating with the Discord Mod
 
