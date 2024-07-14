@@ -19,11 +19,11 @@ The server's hierarchy is broken into six major roles;
 
 **Camellia** - Camellia
 
-**Admins** - J6papertek, thecodingguy (Matt)
+**Admins** - J6papertek, thecodingguy (Matt), seddywolf (Celery Meow), akiuwu (flux' super cute gf uwu), akirimusic (nanahira's wife)
 
 **Elder Mods** - flustix (scissortek), ItMePeachy, akiri, exalvus (rocktek)
 
-**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, sjk04 (Phrygia)
+**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, sjk04 (Phrygia), lillybearr (chocominttek), flustix, obsessiverealityzyndrome (kae), mrkattsu (Katt), mythinsu, sjk, Realmw, therealsemicolon (GOIN'!)
 
 **People's Roles** - (Member, Verified, Waffle/Pancake Leader, Community Artist, Community Contributor, Level Roles, Nitro Boosters, Ko-Fi Donator)
 
